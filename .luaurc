@@ -1,0 +1,9 @@
+{
+  "aliases": {
+    "pkg": "./lune_modules"
+  },
+  "languageMode": "strict",
+  "lint": {
+    "*": false
+  }
+}

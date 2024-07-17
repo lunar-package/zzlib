@@ -1,0 +1,12 @@
+description = "Luau implementation of a depacker for the zlib DEFLATE(RFC1951)/GZIP(RFC1952) file format."
+files = ["*"]
+keywords = ["zlib", "luau", "lune", "packer"]
+main = "./lib/init.luau"
+name = "zzlib"
+owner = "lune-package"
+repository = "https://github.com/lune-package/zzlib.git"
+version = "0.1.0"
+
+[dependencies]
+
+[dev_dependencies]
